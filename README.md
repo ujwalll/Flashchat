@@ -1,1 +1,1 @@
-A chat app developed in flutter.
+A chat app developed in flutter using firebase.
